@@ -1,0 +1,11 @@
+body{
+	background:#eeeeee;
+}
+div{
+	margin:0;
+	padding:0;
+}
+div div{
+	background:#a4ca39;
+	position:relative;
+}
